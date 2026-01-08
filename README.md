@@ -1,45 +1,64 @@
-# 👋 Hi, I'm Gamze!
+👋 Hi, I’m Gamze
 
-I'm a self-taught developer from Istanbul, Turkey with a passion for solving problems and creating meaningful projects. I have 10+ years of hands-on experience ranging from freelance web development to Oracle BI consulting. I enjoy learning, building, and collaborating — and I’m constantly pushing myself to grow.
+I’m a self-taught backend & automation-focused developer based in Istanbul, with a background spanning freelance development, SQL-driven systems, and Oracle BI consulting.
 
----
-
-### 💼 What I Do
-
-- 💻 Full-stack development  
-- 🧠 Data analysis & BI reporting  
-- ⚙️ Back-end logic and database optimization  
-- 🧰 I build projects to improve real-world workflows and sharpen my skills  
+I build **decision-oriented backend systems** — where rules make decisions, AI explains them, and automation executes them.
 
 ---
 
-### 🧠 Skills
+## What I Work On
 
-**Languages & Tech**:  
-`Python` · `SQL` · `JavaScript` · `React` · `Node.js` · `C#` · `TypeScript` · `PL/SQL` · `Oracle BI` · `Tableau`  
-
-**Tools**:  
-`Git` · `.NET` · `SQL Server` · `Linux CLI` · `VSCode`
-
----
-
-### ✨ Highlights
-
-- 🆘 Co-developed a volunteer-based disaster relief site after the 2023 earthquake in Turkey. The site helped coordinate donations, rescue tracking, and family reunification. It’s the project I’m most proud of.
-- 🐾 I’ve rescued and rehabilitated 2 dogs and a cat — and I’m equally proud of that.
-- 📚 I never stop learning. I’ve completed CS50 and multiple programming courses, and I continue to build projects and contribute to open source.
+- 🧠 **Decision & rule engines** (business metrics, thresholds, severity)
+- ⚙️ **Backend & automation workflows** (APIs, webhooks, async processing)
+- 📊 **Data-driven systems** (SQL, BI, reporting, auditability)
+- 🧰 Practical tools that solve real operational problems
 
 ---
 
-### 🔎 Looking For
+## Featured Project
 
-I'm actively looking for opportunities in software development — backend, full-stack, or data roles. I’m especially eager to join a team where I can contribute, learn, and grow. While my background may not be "perfect on paper," I make up for it with commitment, curiosity, and an intense drive to improve.
+### 🚀 AutoOps AI — Decision & Automation Engine
+A backend system that:
+- evaluates business metrics against configurable rules
+- assigns severity levels (INFO / WARNING / CRITICAL)
+- generates AI-assisted explanations (AI does not make decisions)
+- triggers automated workflows via **n8n** when needed
+
+**Tech:** Node.js, TypeScript, Express, Prisma, SQL, n8n  
+🔗 https://github.com/gamzeozgul/autoops-ai
+
+This project reflects how I think about **real-world backend architecture**: separation of concerns, persisted truth sources, and automation that doesn’t block core logic.
 
 ---
 
-### 🤝 Let's Connect!
+## Skills
 
-I'm available for full-time roles and freelance work.  
-📍 Based in Istanbul · 🌍 Open to remote work and relocation  
-📧 [gamze.ozgul@hotmail.com](mailto:gamze.ozgul@hotmail.com)
+**Automation:** n8n, Make.com  
+**Programming:** SQL, JavaScript, TypeScript, Python, C#  
+**Backend / Web:** Node.js, Express, React, HTML, CSS  
+**Databases & BI:** Oracle BI, SQL Server, PL/SQL, T-SQL, Tableau  
+**Tools:** Git, .NET, Linux CLI, VS Code
 
+---
+
+## Background
+
+- Freelance software & data work since 2012  
+- Oracle BI Consultant (2017–2019) — dashboards, enterprise SQL, reporting
+- Strong experience working independently, learning fast, and shipping under constraints
+
+---
+
+## What I’m Looking For
+
+I’m seeking a **junior or entry-level backend / automation role** where I can:
+- contribute immediately
+- learn from a real engineering team
+- grow into more complex systems over time
+
+I may not have a traditional background, but I’m persistent, hands-on, and deeply motivated to build things that actually work.
+
+---
+
+📍 Istanbul · 🌍 Open to remote work & relocation  
+📧 gamze.ozgul@hotmail.com
