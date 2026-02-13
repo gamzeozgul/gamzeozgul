@@ -1,64 +1,79 @@
-👋 Hi, I’m Gamze
+# Gamze Ozgul
 
-I’m a self-taught backend & automation-focused developer based in Istanbul, with a background spanning freelance development, SQL-driven systems, and Oracle BI consulting.
+## Automation & Backend Developer  
+Building rule-driven systems, SQL-centered data pipelines, and operational workflows.
 
-I build **decision-oriented backend systems** — where rules make decisions, AI explains them, and automation executes them.
+I design backend systems where:
 
----
+- Rules make decisions  
+- Data is the source of truth  
+- Automation executes actions  
+- AI explains outcomes (never replaces core logic)
 
-## What I Work On
-
-- 🧠 **Decision & rule engines** (business metrics, thresholds, severity)
-- ⚙️ **Backend & automation workflows** (APIs, webhooks, async processing)
-- 📊 **Data-driven systems** (SQL, BI, reporting, auditability)
-- 🧰 Practical tools that solve real operational problems
-
----
-
-## Featured Project
-
-### 🚀 AutoOps AI — Decision & Automation Engine
-A backend system that:
-- evaluates business metrics against configurable rules
-- assigns severity levels (INFO / WARNING / CRITICAL)
-- generates AI-assisted explanations (AI does not make decisions)
-- triggers automated workflows via **n8n** when needed
-
-**Tech:** Node.js, TypeScript, Express, Prisma, SQL, n8n  
-🔗 https://github.com/gamzeozgul/autoops-ai
-
-This project reflects how I think about **real-world backend architecture**: separation of concerns, persisted truth sources, and automation that doesn’t block core logic.
+I focus on practical, auditable, production-minded engineering.
 
 ---
 
-## Skills
+## 🚀 Featured Project
 
-**Automation:** n8n, Make.com  
-**Programming:** SQL, JavaScript, TypeScript, Python, C#  
-**Backend / Web:** Node.js, Express, React, HTML, CSS  
-**Databases & BI:** Oracle BI, SQL Server, PL/SQL, T-SQL, Tableau  
-**Tools:** Git, .NET, Linux CLI, VS Code
+### AutoOps AI — Decision & Automation Engine
 
----
+Backend system that:
 
-## Background
+- Evaluates business metrics against configurable rules  
+- Assigns severity levels (INFO / WARNING / CRITICAL)  
+- Persists decisions as a reliable source of truth  
+- Generates AI-assisted explanations  
+- Triggers automated workflows via n8n  
 
-- Freelance software & data work since 2012  
-- Oracle BI Consultant (2017–2019) — dashboards, enterprise SQL, reporting
-- Strong experience working independently, learning fast, and shipping under constraints
-
----
-
-## What I’m Looking For
-
-I’m seeking a **junior or entry-level backend / automation role** where I can:
-- contribute immediately
-- learn from a real engineering team
-- grow into more complex systems over time
-
-I may not have a traditional background, but I’m persistent, hands-on, and deeply motivated to build things that actually work.
+**Tech:** TypeScript, Node.js, Express, Prisma, SQL, n8n  
+🔗 https://github.com/gamzeozgul/autoops-ai  
 
 ---
 
-📍 Istanbul · 🌍 Open to remote work & relocation  
-📧 gamze.ozgul@hotmail.com
+## 🛠 What I Build
+
+- Automation workflows (n8n, webhooks, async processing, CRM integrations)
+- Rule-based decision engines with severity scoring & thresholds
+- SQL-centered systems with reporting and audit trails
+- API integrations with retry logic, normalization & deduplication
+- Backend services designed for operational reliability
+
+---
+
+## 📦 Selected Projects
+
+### n8n Lead Generator  
+Full-stack lead discovery system using Overpass API with normalization, deduplication, and dashboard interface.  
+**Tech:** TypeScript, Next.js, n8n  
+
+### n8n Lead Enrichment & CRM Sync  
+Automated lead scoring and CRM synchronization workflow with conditional routing and notifications.
+
+### n8n E-commerce Order Notification  
+Automated order processing workflow with HTML email notifications and structured logging.
+
+### Healthcare Database  
+Relational schema design simulating clinic-level appointment and patient management systems.
+
+---
+
+## 💼 Background
+
+**Oracle BI Consultant (2017–2019)**  
+Enterprise dashboards, advanced SQL reporting, performance-focused query development  
+
+**Freelance Software & Data Work (2012–Present)**  
+
+---
+
+## 🎯 Current Focus
+
+Open to junior / entry-level roles in:
+
+- Automation Engineering  
+- Backend Development  
+- SQL-heavy Data / Operations  
+
+📍 Istanbul  
+🌍 Open to Remote & Relocation
